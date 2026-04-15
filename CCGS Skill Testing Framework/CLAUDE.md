@@ -1,6 +1,6 @@
 # CCGS Skill Testing Framework — Claude Instructions
 
-This folder is the quality assurance layer for the Claude Code Game Studios skill/agent
+This folder is the quality assurance layer for the Batoner Game Studios skill/agent
 framework. It is self-contained and separate from any game project.
 
 ## Key files

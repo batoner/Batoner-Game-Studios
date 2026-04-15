@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Claude Code Game Studios (Enhanced)</h1>
+  <h1 align="center">Batoner Game Studios</h1>
   <p align="center">
     Turn a single Claude Code session into a full game development studio.<br />
     49 agents. 81 skills. 12 hooks. Token-optimized.
@@ -106,7 +106,7 @@ Tier 3 — Specialists (Sonnet/Haiku)
 
 1. **Clone**:
    ```bash
-   git clone https://github.com/batoner/Claude-Code-Game-Studios.git my-game
+   git clone https://github.com/batoner/Batoner-Game-Studios.git my-game
    cd my-game
    ```
 
